@@ -61,6 +61,6 @@
 
 <div align="center">
 
-**[💬 Discord](https://discord.com/users/283333002749018113)** · **[📦 aram-love-bot](https://github.com/vincntlaw/aram-love-bot)** · made with ❤️
+**[💬 Discord](https://discord.com/users/283333002749018113)** 
 
 </div>
