@@ -13,7 +13,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/283333002749018113)](https://discord.com/users/283333002749018113)
 
-*The Discord card above is **live** — come say hi, i'm **loveqcn**.*
+
 
 </div>
 
