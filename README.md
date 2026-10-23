@@ -25,6 +25,7 @@
 |---|---|---|
 | ❤️ | **[aram-love-bot](https://github.com/vincntlaw/aram-love-bot)** | League of Legends ARAM companion — finds friends in live games and chats like your duo, powered by a local LLM |
 | 🔬 | **[Principia](https://github.com/vincntlaw/Principia)** | My restyled fork of the living Principles Cloud for autonomous scientific discovery |
+| 🐴 | **[ponytail](https://github.com/vincntlaw/ponytail)** | My restyled Ponytail fork with a CommonJS-aware codebase map — makes your AI agent think like the laziest senior dev in the room |
 
 ## 📊 GitHub Stats
 
