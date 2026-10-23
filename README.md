@@ -25,7 +25,11 @@
 |---|---|---|
 | ❤️ | **[aram-love-bot](https://github.com/vincntlaw/aram-love-bot)** | League of Legends ARAM companion — finds friends in live games and chats like your duo, powered by a local LLM |
 | 🔬 | **[Principia](https://github.com/vincntlaw/Principia)** | My restyled fork of the living Principles Cloud for autonomous scientific discovery |
-| 🐴 | **[ponytail](https://github.com/vincntlaw/ponytail)** | My restyled Ponytail fork with a CommonJS-aware codebase map — makes your AI agent think like the laziest senior dev in the room |
+| 🐴 | **[ponytail](https://github.com/vincntlaw/ponytail)** | My restyled fork with a CommonJS-aware codebase map; contributing the export-indexing fix upstream in [PR #1245 (open)](https://github.com/DietrichGebert/ponytail/pull/1245) |
+| 🎨 | **[Stable Diffusion WebUI](https://github.com/vincntlaw/stable-diffusion-webui)** *(fork)* | More resilient prompt handling: malformed-weight recovery, syntax warnings, and cached schedules — [PR #1 merged in my fork](https://github.com/vincntlaw/stable-diffusion-webui/pull/1) |
+| 🛡️ | **[Trivy](https://github.com/vincntlaw/trivy)** *(fork)* | Dependency-parser fixes for PyLock, NuGet, and pnpm — [PR #1](https://github.com/vincntlaw/trivy/pull/1) and [PR #2](https://github.com/vincntlaw/trivy/pull/2), merged in my fork |
+
+**Fresh public fork:** [ClickHouse](https://github.com/vincntlaw/ClickHouse) — a real-time analytics database.
 
 ## 📊 GitHub Stats
 
